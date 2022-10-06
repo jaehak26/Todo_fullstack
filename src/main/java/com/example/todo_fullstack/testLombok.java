@@ -1,2 +1,5 @@
-package com.example.todo_fullstack;public class testLombok {
+package com.example.todo_fullstack;
+
+public class testLombok {
+
 }

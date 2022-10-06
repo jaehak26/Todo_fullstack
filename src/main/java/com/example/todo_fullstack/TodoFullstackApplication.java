@@ -10,4 +10,5 @@ public class TodoFullstackApplication {
 		SpringApplication.run(TodoFullstackApplication.class, args);
 	}
 
+
 }
