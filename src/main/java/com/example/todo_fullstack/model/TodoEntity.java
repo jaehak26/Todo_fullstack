@@ -1,4 +1,4 @@
-package com.example.todo_fullstack;
+package com.example.todo_fullstack.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
